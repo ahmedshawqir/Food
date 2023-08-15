@@ -94,9 +94,9 @@
  * Wild Wings
  * Popeye’s
  * Chicken Chef
+ * Mitzi’s
 
 ## Chinese:
- * Mitzi’s
  * Sun Fortune
  * Fortune Cooking
  * North Garden
@@ -108,6 +108,7 @@
  * Ocean King
  * Noodle Express
  * Logan Corner Restaurant
+ * Gol's Lanzhou
 
 ## Dim Sum:
  * Sam Po Dim Sum
@@ -186,7 +187,8 @@
  * Little Korea
  * Korean Garden Restaurant
  * KimChi Korean Delight
- * Mo Mo 
+ * Mo Mo
+ * Chungchun
 
 ## Middle Eastern:
  * Baraka Pita Bakery
@@ -195,12 +197,14 @@
  * Shawarma Khan
  * Taste of Mediterranean
  * Tehran Cafe
+ * Al Basha
  * George’s Inn and Submarines
  * Best Pizza and Donair
 
 ## Mexican/South American:
  * BMC Market
  * La Pampa Empanadas
+ * Burrito Del Rio
 
 ## Pizza (Fast Food):
  * Za
